@@ -8,4 +8,4 @@
 ![alt text](https://www.bworldonline.com/wp-content/uploads/2022/03/Peso-currency-640x427.jpg)
 
 
-[LMS](https://www.jhsportal.adnu.edu.ph/my/)
+[LMS](https://www.jhsportal.adnu.edu.ph)
