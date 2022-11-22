@@ -19,8 +19,15 @@ Hello everyone I am Jorge Francis N. Egino from 9 Chabanel And this is my page!
 
 **Zodiac Sign: Cancer ♋**
 
+About me:
+What I eat/Drink Everyday
+|Monday|Tuesday|Wednesday|Thursday|Friday
+-----------------------------------------
+|Kape|Kape|Kape|Kape|Kape
+-----------------------------------------
+#Coffeeislife
 
-
+![download](https://user-images.githubusercontent.com/118236253/203209861-551f4a78-f21c-4c9f-bd1f-e1fd9407ade2.png)
 
 
 **School*: Ateneo De Naga Univeristy
@@ -38,7 +45,29 @@ Favorite Song: The once we once Loved by Ben and ben
 
 HOBBIES
 - PLAYING FOOTBALL
+![maxresdefault (1)](https://user-images.githubusercontent.com/118236253/203209491-4b155e8d-dbca-4db5-90fe-6c00fbd3bad9.jpg)
+
+
 - PLAYING MOBILE GAMES/PC GAMES (CODM,ML, VALORANT)
+
+![maxresdefault](https://user-images.githubusercontent.com/118236253/203209231-2a1a6ec7-9168-421d-82f6-6009de1d4091.jpg)
+
+
 - PLAYING MUSIC/SINGING
+
+![10603836_765570453489916_6399437009356924154_o](https://user-images.githubusercontent.com/118236253/203209110-a94c7fa1-0eab-48cd-99e3-9b8ef9f7284a.jpg)
+
+
 - HANGGING OUT WITH FRIENDS
+
+![315321006_817314206231887_1447434280542676211_n](https://user-images.githubusercontent.com/118236253/203208928-de88546e-d7d2-4402-8ffb-3686f83cf2b2.jpg)
+
+
+- Being A Chad
+
+![313447895_822030915683839_3075398130920761613_n](https://user-images.githubusercontent.com/118236253/203208309-e3241c2e-9b9d-4a65-95ea-ca66c3a91b99.png)
+- Watching anime
+
+
+
 
