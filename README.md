@@ -18,6 +18,12 @@ Hello everyone I am Jorge Francis N. Egino from 9 Chabanel And this is my page!
 *Zodiac Sign: Cancer*
 
 ----------------------
-Favorite Playlist
+Favorite Song: The once we once Loved by Ben and ben
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xifzlRqt0qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+-----------------------------------
+
+HOBBIES
+- PLAYING FOOTBALL
+- PLAYING MOBILE GAMES/PC GAMES (CODM,ML, VALORANT)
