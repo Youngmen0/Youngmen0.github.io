@@ -39,13 +39,13 @@ What I eat/Drink Everyday
 
 
 ----------------------
-Favorite Song: The once we once Loved by Ben and ben
+**Favorite Song: The once we once Loved by Ben and ben**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xifzlRqt0qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----------------------------------
 
-HOBBIES
+**HOBBIES**
 - PLAYING FOOTBALL
 ![maxresdefault (1)](https://user-images.githubusercontent.com/118236253/203209491-4b155e8d-dbca-4db5-90fe-6c00fbd3bad9.jpg)
 
@@ -74,3 +74,12 @@ HOBBIES
 
 ![db1ac49bc1007a36d7320da19c15a9ac](https://user-images.githubusercontent.com/118236253/203457254-17206a45-9860-42b3-984a-f1c543411617.jpg)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### ABOUTMYCRUSH
+
+**AKO NALANG KASI**
+
+**MISSUBALIKKANA**
+
+![82f78a2184bf20b6cc86fbdbd1babc5e](https://user-images.githubusercontent.com/118236253/203458263-83589d98-3ce4-4d87-911f-9e1aee8daad4.jpg)
