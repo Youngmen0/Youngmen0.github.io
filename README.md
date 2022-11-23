@@ -20,7 +20,9 @@ Hello everyone I am Jorge Francis N. Egino from 9 Chabanel And this is my page!
 **Zodiac Sign: Cancer ♋**
 
 About me:
+
 What I eat/Drink Everyday
+
 |Monday|Tuesday|Wednesday|Thursday|Friday
 -----------------------------------------
 |Kape|Kape|Kape|Kape|Kape
