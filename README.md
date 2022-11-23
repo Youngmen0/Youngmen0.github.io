@@ -26,7 +26,7 @@ What I eat/Drink Everyday
 |Monday|Tuesday|Wednesday|Thursday|Friday
 -------------------------------------------------
 |Kape|Kape|Kape|Kape|Kape
----------------------------------------------------
+
 #Coffeeislife
 
 ![download](https://user-images.githubusercontent.com/118236253/203209861-551f4a78-f21c-4c9f-bd1f-e1fd9407ade2.png)
@@ -83,3 +83,5 @@ What I eat/Drink Everyday
 **MISSUBALIKKANA**
 
 ![82f78a2184bf20b6cc86fbdbd1babc5e](https://user-images.githubusercontent.com/118236253/203458263-83589d98-3ce4-4d87-911f-9e1aee8daad4.jpg)
+
+New Friend Added :((
