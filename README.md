@@ -15,7 +15,7 @@ Hello everyone I am Jorge Francis N. Egino from 9 Chabanel And this is my page!
 
 **Birthday: June 30, 2007**
 
-**status: Single and ready to mingle**
+**status: Single (Kunin nyona pls)**
 
 **Zodiac Sign: Cancer ♋**
 
