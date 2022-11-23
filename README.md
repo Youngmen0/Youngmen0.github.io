@@ -24,9 +24,9 @@ About me:
 What I eat/Drink Everyday
 
 |Monday|Tuesday|Wednesday|Thursday|Friday
------------------------------------------
+-------------------------------------------------
 |Kape|Kape|Kape|Kape|Kape
------------------------------------------
+---------------------------------------------------
 #Coffeeislife
 
 ![download](https://user-images.githubusercontent.com/118236253/203209861-551f4a78-f21c-4c9f-bd1f-e1fd9407ade2.png)
