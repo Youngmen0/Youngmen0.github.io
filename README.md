@@ -5,8 +5,9 @@ Hello everyone I am Jorge Francis N. Egino from 9 Chabanel And this is my page!
 
 
 
+![310061998_5657624424284470_254987657184402214_n](https://user-images.githubusercontent.com/118236253/204422170-8bceb76f-a901-4de6-b8f4-9fe6421f7b7f.jpg)
 
-![86210641_2849006415146299_4334840775943651328_n](https://user-images.githubusercontent.com/118236253/203199472-04cd1e3f-f74d-4ab5-9784-2bb5cf1a97b7.jpg)
+
 
 **Full name: Jorge Francis Noora Egino**
 **LG: 9 - Noel Chabanel**
